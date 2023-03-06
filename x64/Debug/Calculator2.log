@@ -1,0 +1,4 @@
+﻿  Calculator2.cpp
+C:\Users\alasala\source\repos\Calculator2\Calculator2.cpp(79,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alasala\source\repos\Calculator2\Calculator2.cpp(79,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\alasala\source\repos\Calculator2\x64\Debug\Calculator2.exe for writing
